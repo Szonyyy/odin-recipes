@@ -1,0 +1,60 @@
+* {
+    background-color: #1F2937;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+a:visited {
+    color: #0e141d;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline overline; 
+    font-size: 50px;
+}
+
+h2 {
+    position: absolute;
+    top: 31%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 27px;
+    text-align: center;
+}
+
+a{
+    font-size: 18px;
+}
+#Bartolini {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+    position: absolute;
+    top: 100%;
+    left: 39%;
+}
+
+#frame-mid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    height: auto;
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.recipes {
+    position: absolute;
+    top: 40%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
